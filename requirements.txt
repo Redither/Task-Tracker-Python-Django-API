@@ -11,7 +11,7 @@ Django==4.0.5
 django-cors-headers==3.13.0
 django-filter==21.1
 django-import-export==2.8.0
-# django-simple-history @ file:///C:/Users/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0/Documents/tasktracker_dj/django-simple-history-3.1.1.tar.gz
+django-simple-history @ file:///C:/Users/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0/Documents/tasktracker_dj/django-simple-history-3.1.1.tar.gz
 djangorestframework==3.13.1
 Eel==0.14.0
 et-xmlfile==1.1.0
